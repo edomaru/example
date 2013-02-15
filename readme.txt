@@ -6,3 +6,4 @@ Start newfeature
 newfeature cut
 Also work
 work 
+Thanks to Ralf Eber. Your screencast is awesome :-bd
