@@ -3,3 +3,4 @@ Changed
 Changed again
 bugfix
 Start newfeature
+newfeature cut
